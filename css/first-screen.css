@@ -359,8 +359,8 @@ label.error { color: red; font-size: 1.3rem; font-weight: 500; margin: .8rem 0 0
 .header-right { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-align: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: end; -ms-flex-pack: end; justify-content: flex-end; -ms-flex-negative: 0; flex-shrink: 0; width: calc(100% - 14.1rem); }
 
 .logo img { 
-  /* width: 290px;  */
-  height: 60px;
+  width: 290px; 
+  /* height: 60px; */
   margin-left: 14px;
 }
 
