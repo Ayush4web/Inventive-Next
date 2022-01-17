@@ -1,4 +1,7 @@
 /* reset */
+.ru{
+  font-size: 3.5rem;
+}
 /* main variables */
 .compensate-for-scrollbar { margin-right: 0 !important; }
 
